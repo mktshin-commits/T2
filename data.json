@@ -1,0 +1,142 @@
+[
+  {
+    "name": "나스미디어",
+    "url": "https://www.nasmedia.co.kr/",
+    "address": "서울특별시 강남구 도곡로1길 14",
+    "lat": 37.4910371,
+    "lng": 127.0323941
+  },
+  {
+    "name": "씨제이메조미디어",
+    "url": "https://cjmezzomedia.com/",
+    "address": "서울특별시 중구 동호로 330",
+    "lat": 37.5638619,
+    "lng": 127.0033128
+  },
+  {
+    "name": "코마스인터렉티브",
+    "url": "http://comasinteractive.com/",
+    "address": "서울시 서초구 방배로 285",
+    "lat": 37.4902132,
+    "lng": 126.9920288
+  },
+  {
+    "name": "디트라이브",
+    "url": "https://www.dtribe.co.kr/main.php",
+    "address": "서울시 마포구 신촌로 12길 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "다츠",
+    "url": "http://www.dartz.com/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "리서치애드",
+    "url": "http://www.researchad.com/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "네이트커뮤니케이션즈",
+    "url": "https://www.natecorp.com/",
+    "address": "서울특별시 중구 소월로2길 30",
+    "lat": 37.5537507,
+    "lng": 126.9757647
+  },
+  {
+    "name": "인크로스",
+    "url": "https://www.incross.com/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "카카오",
+    "url": "https://www.kakaocorp.com/page/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "이엠넷",
+    "url": "https://www.emnet.co.kr/",
+    "address": "서울시 구로구 디지털로34길 27",
+    "lat": 37.4850091,
+    "lng": 126.8979313
+  },
+  {
+    "name": "나무커뮤니케이션",
+    "url": "http://www.namukorea.com/renew/index.php",
+    "address": "서울시 송파구 중대로 135",
+    "lat": 37.4951285,
+    "lng": 127.1224488
+  },
+  {
+    "name": "판도라TV",
+    "url": "http://www.pandora.tv/",
+    "address": "경기도 성남시 분당구 판교로228번길 15",
+    "lat": 37.401817,
+    "lng": 127.1016154
+  },
+  {
+    "name": "제이슨그룹",
+    "url": "https://jasongroup.co.kr/index.html",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "네이버",
+    "url": "https://www.navercorp.com/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "벡터컴",
+    "url": "http://www.vectorcom.co.kr/",
+    "address": "서울특별시 강남구 테헤란로26길 14",
+    "lat": 37.4992903,
+    "lng": 127.0359666
+  },
+  {
+    "name": "에이전시더블유",
+    "url": "https://www.agencyw.com/",
+    "address": "서울특별시 송파구 법원로92",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "펜타브리드",
+    "url": "https://www.pentabreed.com/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "숲",
+    "url": "https://corp.sooplive.co.kr/",
+    "address": "경기도 성남시 분당구 판교로228번길 15",
+    "lat": 37.401817,
+    "lng": 127.1016154
+  },
+  {
+    "name": "인터웍스미디어",
+    "url": "https://www.interworksmedia.co.kr/",
+    "address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "플레이디",
+    "url": "https://www.playd.com/w/index.html",
+    "address": "경기도 성남시 분당구 황새울로 359 번길 11",
+    "lat": null,
+    "lng": null
+  }
+]

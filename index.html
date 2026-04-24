@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KODAA 회원사 지도 검색</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar for Search and List -->
+        <aside class="sidebar">
+            <header class="header">
+                <h1>회원사 지도 검색</h1>
+                <p>KODAA 회원사를 구별로 찾아보세요.</p>
+            </header>
+            
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="예: 강남구, 서초구..." autocomplete="off">
+                <button id="searchBtn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                </button>
+            </div>
+            
+            <div class="stats">
+                <span>총 <strong id="totalCount">0</strong>개 검색됨</span>
+            </div>
+            
+            <div class="company-list" id="companyList">
+                <!-- Company items will be dynamically injected here -->
+                <div class="loading-state">데이터를 불러오는 중입니다...</div>
+            </div>
+        </aside>
+        
+        <!-- Main Map Area -->
+        <main class="map-area">
+            <div id="map"></div>
+        </main>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <!-- Data and App JS -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
